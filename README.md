@@ -1,7 +1,7 @@
 # Project Name: Word Filter
 
 # Description 
-The purpose of this project is to be able to filter certain words from an inputted string. At first I started with mapped values of swear words to symbols such as #&$!, however I soon found out that arrays accomplished the task at hand much more easily. Also, instead of having limited definitions in the map, I decided to let the user decide which words they would like to filter. 
+The purpose of this project is to be able to filter certain words from an inputted string. At first I started with mapped values of swear words to symbols such as #&$!, however I soon found out that arrays accomplished the task at hand much more easily. Also, letting the user pick which words (whether they be appropriate or inappropriate) to filter instead of having a predefined set, voids the potential of people reading the source code to become disgruntled. 
 
 Example
     Please enter the words (case sensitive) that you'd like to filter out: Marx
